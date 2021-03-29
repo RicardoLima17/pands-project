@@ -37,6 +37,7 @@ else:
 # print satuday and sunday    
     print("It is the weekend, yay!")    
 
+    
 # References
 # https://www.w3schools.com/python/python_datetime.asp
 # Used lecture on Tuesday program as a base for the problem.
