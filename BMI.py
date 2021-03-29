@@ -4,9 +4,11 @@
 weight = float(input("Enter your weight in kilograms: "))
 height = float(input("Enter your height in centimeters: "))
 
+
 #perform BMI calculation conversion of height cm to meters
 height_meters = height / 100
 bmi = weight / (height_meters  ** 2)
+
 
 #print formatting method may not work in older versions python
 print('BMI is: {}.'.format(round(bmi, 2)))
