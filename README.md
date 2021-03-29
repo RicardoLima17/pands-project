@@ -2,7 +2,7 @@
 
 ## Summary of Assignment
 
-<p>1-bmi.py</p>
+## 1-bmi.py
 <p>This is a python calculator that calculates your BMI</p>
 <p>Python skills</p>
 
