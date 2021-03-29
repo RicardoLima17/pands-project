@@ -12,6 +12,7 @@ bmi = weight / (height_meters  ** 2)
 print('BMI is: {}.'.format(round(bmi, 2)))
 
 
+
 # References:
 # https://www.ramsayhealth.co.uk/weight-loss-surgery/bmi/bmi-formula
 # Lectures
