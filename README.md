@@ -1,6 +1,6 @@
 # Programming and Scripting Problem Set Solutions 2021
 
-This file consists of
+## Summary of Assignment
 
 1-bmi.py
 This is a python calculator that calculates your BMI
