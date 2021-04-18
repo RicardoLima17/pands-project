@@ -32,7 +32,7 @@ Four features are were measured from each sample:
 
 ![Iris flower](https://user-images.githubusercontent.com/77755223/115158575-bbb20500-a086-11eb-877d-059237278e12.png)
 
-![Iris flower2](https://user-images.githubusercontent.com/77755223/115158763-bc976680-a087-11eb-9bfa-34e2df40f1b8.png)
+
 
 
 
