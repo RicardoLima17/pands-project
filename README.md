@@ -35,5 +35,8 @@ Four features are were measured from each sample:
 2. Sepal width (cm)
 3. Petal length (cm)
 4. Petal width (cm)
+
+![Iris flower](https://user-images.githubusercontent.com/77755223/115158575-bbb20500-a086-11eb-877d-059237278e12.png)
+
 <p>Python skills</p>
 
