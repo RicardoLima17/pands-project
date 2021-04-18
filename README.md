@@ -1,8 +1,7 @@
 # PANDAS-PROJECT 2021 - HIGH DIPLOMA IN DATA ANALITICS
 
 ## Summary of Pands-Project
-<p>This repository contains my programming and scripting problem sheet 2021. In this eight weeks, was developed skills in, github, Matplolib, Seaborn, NumPy and Pandas.</p>
-
+<p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, Matplolib, Seaborn, NumPy, csv and Pandas.</p>
 
 
 ## Introduction
