@@ -15,7 +15,7 @@
 <p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, Matplolib, Seaborn, NumPy, csv and Pandas.</p>
 
 
-![Uploading 3 flores2.jpg…]()
+
 
 
 
