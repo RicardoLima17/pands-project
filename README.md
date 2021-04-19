@@ -6,6 +6,7 @@
 3. Dataset Analysis 
 4. Plots
 5. Conclusion
+6. References
 
 ## 1- Summary of Pands-Project
 <p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, Matplolib, Seaborn, NumPy, csv and Pandas.</p>
@@ -34,6 +35,7 @@ Four features are were measured from each sample:
 
 ## 5- Conclusion
 
+## 6- References
 
 
 <p>Python skills</p>
