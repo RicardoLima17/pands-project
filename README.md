@@ -3,8 +3,9 @@
 ## Table of Contents:
 1. Summary
 2. Introduction
-3. Dataset Analysis (including statistics, univariate & multivariate plots)
-6. Conclusion
+3. Dataset Analysis 
+4. Plots
+5. Conclusion
 
 ## 1- Summary of Pands-Project
 <p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, Matplolib, Seaborn, NumPy, csv and Pandas.</p>
