@@ -4,8 +4,6 @@
 1. Summary
 2. Introduction
 3. Dataset Analysis (including statistics, univariate & multivariate plots)
-4. Machine Learning
-5. Insights and Comparative Analysis
 6. Conclusion
 
 ## 1- Summary of Pands-Project
