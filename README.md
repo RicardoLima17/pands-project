@@ -38,5 +38,5 @@ Four features are were measured from each sample:
 ## 6- References
 
 
-<p>Python skills</p>
+
 
