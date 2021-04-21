@@ -35,13 +35,9 @@ Four features are were measured from each sample:
 ## 3- Dataset Analysis
 ### Code nd Tables
 
-<p>###         length  sepal width  petal length  petal width      variety</p>
-<p>###0           5.1          3.5           1.4          0.2      Iris-setosa</p>
-<p>###1           4.9          3.0           1.4          0.2      Iris-setosa</p>
-<p>###2           4.7          3.2           1.3          0.2      Iris-setosa</p>
-<p>###3           4.6          3.1           1.5          0.2      Iris-setosa</p>
-<p>###4           5.0          3.6           1.4          0.2      Iris-setosa</p>
 
+
+![image](https://user-images.githubusercontent.com/77755223/115612344-10ea5280-a2e3-11eb-8cf9-715461261582.png)
 
 
 
