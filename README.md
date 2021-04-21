@@ -33,9 +33,10 @@ Four features are were measured from each sample:
 ![Iris flower](https://user-images.githubusercontent.com/77755223/115158575-bbb20500-a086-11eb-877d-059237278e12.png)
 
 ## 3- Dataset Analysis
-### Code nd Tables
+### Code and Tables
 
-
+<p>Show first and last 5 rows</p>
+</p>print(iris_df.head())</p>
 
 ![image](https://user-images.githubusercontent.com/77755223/115612344-10ea5280-a2e3-11eb-8cf9-715461261582.png)
 
