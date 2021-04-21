@@ -39,7 +39,7 @@ Four features are were measured from each sample:
 <p>print(iris_df.head())</p>
 
 ![image](https://user-images.githubusercontent.com/77755223/115612344-10ea5280-a2e3-11eb-8cf9-715461261582.png)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p> # Show number of rows and columns<p>
 <p>print(iris_df.shape)</p>
 
