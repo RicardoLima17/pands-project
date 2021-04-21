@@ -37,11 +37,9 @@ Four features are were measured from each sample:
 
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 
+![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
 
-<p> # Show number of rows and columns
-print(iris_df.shape)</p>
 
-![image](https://user-images.githubusercontent.com/77755223/115612935-b9001b80-a2e3-11eb-85f7-4f218a725c28.png)
 
 
 ## 4- Plots
