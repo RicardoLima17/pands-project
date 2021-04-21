@@ -1,9 +1,7 @@
 
 <h1>Pandas-Project 2021 - Iris Dataset Analysis</h1>
                        
- <p align="center">
- <img src= "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)"/>
-</p>
+ "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)
                                                   
                                 
 1. Summary
