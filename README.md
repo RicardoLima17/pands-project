@@ -42,6 +42,7 @@ Four features are were measured from each sample:
 
 <p> # Show number of rows and columns</p>
 <p>print(iris_df.shape)</p>
+
 ![image](https://user-images.githubusercontent.com/77755223/115612935-b9001b80-a2e3-11eb-85f7-4f218a725c28.png)
 
 
