@@ -46,7 +46,8 @@ Four features are were measured from each sample:
 ![image](https://user-images.githubusercontent.com/77755223/115615149-7d1a8580-a2e6-11eb-9733-a2de9e3de35e.png)
 #### ---------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115615174-87d51a80-a2e6-11eb-942f-36a3a3c67509.png)
-
+#### ---------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/77755223/115615453-e601fd80-a2e6-11eb-83dc-d177414c2d5d.png)
 
 
 ## 4- Plots
