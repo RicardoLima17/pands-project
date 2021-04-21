@@ -1,5 +1,5 @@
 
-<h1><center>Pandas-Project 2021 - Iris Dataset Analysis<center></h1>
+<center>Pandas-Project 2021 - Iris Dataset Analysis</center>
                                                             
                                                   
 #                                  ![gmit](https://user-images.githubusercontent.com/77755223/115525428-fbdfd600-a286-11eb-86ec-1b657cdaa8dd.PNG)                          
