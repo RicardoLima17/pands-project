@@ -35,12 +35,12 @@ Four features are were measured from each sample:
 ## 3- Dataset Analysis
 ### Code and Tables
 
-<p># Show first and last 5 rows</p>
+<p># Show first and last 5 rows<p>
 <p>print(iris_df.head())</p>
 
 ![image](https://user-images.githubusercontent.com/77755223/115612344-10ea5280-a2e3-11eb-8cf9-715461261582.png)
 
-<p> # Show number of rows and columns</p>
+<p> # Show number of rows and columns<p>
 <p>print(iris_df.shape)</p>
 
 ![image](https://user-images.githubusercontent.com/77755223/115612935-b9001b80-a2e3-11eb-85f7-4f218a725c28.png)
