@@ -1,7 +1,8 @@
+ "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)  
 
 <h1>Pandas-Project 2021 - Iris Dataset Analysis</h1>
                        
- "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)                                                 
+##Ricardo Oliveita Lima Rodrigues                                                 
                                 
 1. Summary
 2. Introduction
