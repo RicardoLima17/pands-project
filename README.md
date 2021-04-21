@@ -39,6 +39,10 @@ Four features are were measured from each sample:
 
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
 
+![image](https://user-images.githubusercontent.com/77755223/115614151-39734c00-a2e5-11eb-851a-b55e3d3c1008.png)
+
+![image](https://user-images.githubusercontent.com/77755223/115614314-75a6ac80-a2e5-11eb-8016-a50787615b6f.png)
+
 
 
 
