@@ -43,12 +43,12 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 
 ### Code and Tables
 
-####Imported libraries and modules
-    import numpy as np
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    import sys 
+#### <br>Imported libraries and modules</br>
+   <br> import numpy as np</br>
+   <br> import pandas as pd</br>
+  <br>  import matplotlib.pyplot as plt</br>
+  <br>  import seaborn as sns</br>
+  <br>  import sys </br>
 
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
