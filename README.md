@@ -2,7 +2,9 @@
  
 ## Ricardo Oliveira Lima Rodrigues - G00398291 
 
-<h1>Pandas-Project 2021 - Iris Dataset Analysis</h1>                                                       
+<h1>Pandas-Project 2021 - Iris Dataset Analysis</h1> 
+
+## Table of contents
                                 
 1. Summary
 2. Introduction
