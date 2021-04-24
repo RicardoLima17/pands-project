@@ -1,3 +1,4 @@
+![versicolorCarr](https://user-images.githubusercontent.com/77755223/115972123-8acd4680-a544-11eb-8423-26deeab9ee75.PNG)
  "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)  
  
 ## Ricardo Oliveira Lima Rodrigues - G00398291 
@@ -64,8 +65,11 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![setosaCorr](https://user-images.githubusercontent.com/77755223/115971934-56a55600-a543-11eb-8047-9956d7a2e80b.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
-
+![versicolorCarr](https://user-images.githubusercontent.com/77755223/115972132-8e60cd80-a544-11eb-93b0-490e6a5230bc.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
+![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
+#### ----------------------------------------------------------------------------------------------------------------------------
+
 ## 4- Plots
 
 
