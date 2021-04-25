@@ -80,6 +80,8 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 <https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html>
 <https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html>
 <https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>
+https://stackoverflow.com/questions/67150094/how-can-i-condense-a-series-of-seaborn-scatterplots-using-for-loops
+https://seaborn.pydata.org/generated/seaborn.set.html
 
 
 
