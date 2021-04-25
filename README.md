@@ -9,9 +9,8 @@
 1. Summary
 2. Introduction
 3. Dataset Analysis 
-4. Plots
-5. Conclusion
-6. References
+4. Conclusion
+5. References
 
 ## 1- Summary of Pands-Project
 <p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, Matplolib, Seaborn, NumPy, csv and Pandas.</p>
@@ -69,13 +68,9 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
 
-## 4- Plots
+## 4- Conclusion
 
-
-
-## 5- Conclusion
-
-## 6- References
+## 5- References
 <https://web.microsoftstream.com/video/ee296187-6469-4481-b28d-aed28af38ea4?list=studio>
 <https://web.microsoftstream.com/video/958c5886-bc34-4bd1-8bf2-78c85b1dba49?list=studio>
 <https://web.microsoftstream.com/video/31b9d1db-d72c-4ba2-97e3-03208b057ce6?list=studio&referrer=https:%2F%2Flearnonline.gmit.ie%2F>
