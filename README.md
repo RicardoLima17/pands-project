@@ -77,6 +77,10 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 ## 5- Conclusion
 
 ## 6- References
+<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html>
+<https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html>
+<<https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html >>
+
 
 
 
