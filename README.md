@@ -69,7 +69,7 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 #### ----------------------------------------------------------------------------------------------------------------------------
 
 ## 4- Conclusion
-
+In this project, we've introduced and analysed the Iris Flower Dataset. We've used the various helpful codes from the panda's package for our analysis, and then we proceeded to create some interesting visualisations using pandas and seaborn on top of matplotlib. 
 ## 5- References
 <https://web.microsoftstream.com/video/ee296187-6469-4481-b28d-aed28af38ea4?list=studio>
 <https://web.microsoftstream.com/video/958c5886-bc34-4bd1-8bf2-78c85b1dba49?list=studio>
