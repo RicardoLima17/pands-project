@@ -1,5 +1,3 @@
-![versicolorCarr](https://user-images.githubusercontent.com/77755223/115972123-8acd4680-a544-11eb-8423-26deeab9ee75.PNG)
-
  "![gmit](https://user-images.githubusercontent.com/77755223/115528889-56c6fc80-a28a-11eb-8f36-2d7004e6ece6.PNG)  
  
 ## Ricardo Oliveira Lima Rodrigues - G00398291 
