@@ -81,6 +81,7 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 <https://web.microsoftstream.com/video/31b9d1db-d72c-4ba2-97e3-03208b057ce6?list=studio&referrer=https:%2F%2Flearnonline.gmit.ie%2F>
 <https://web.microsoftstream.com/video/46aca21f-2b47-4ad1-9a83-8ac8b554202c?list=studio>
 <https://web.microsoftstream.com/video/2dd501ea-cd0b-4a1a-9a47-0dda9a304143?list=studio>
+<https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03>
 <https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html>
 <https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html>
 <https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>
