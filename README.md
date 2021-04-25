@@ -44,8 +44,8 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 ### Code and Tables
 
 #### Imported libraries and modules
-
-
+![image](https://user-images.githubusercontent.com/77755223/115998743-9f5f1c80-a5e0-11eb-85dc-0993c6148d15.png)
+#### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
