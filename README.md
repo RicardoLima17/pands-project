@@ -72,7 +72,8 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
-3.1- Code and Tables
+### 3.1- Code and Tables
+
 ![image](https://user-images.githubusercontent.com/77755223/116127410-b58fda00-a6bf-11eb-971d-7296b06a03af.png)
 
 
