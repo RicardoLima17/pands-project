@@ -73,10 +73,19 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ### 3.1- Graphics
-
 ![image](https://user-images.githubusercontent.com/77755223/116128398-cc82fc00-a6c0-11eb-8391-d6ae5f784754.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/77755223/116128996-79f60f80-a6c1-11eb-9952-392e9710d94a.png)
 
+#### ----------------------------------------------------------------------------------------------------------------------------
+
+#### ----------------------------------------------------------------------------------------------------------------------------
+
+#### ----------------------------------------------------------------------------------------------------------------------------
+
+#### ----------------------------------------------------------------------------------------------------------------------------
+
+#### ----------------------------------------------------------------------------------------------------------------------------
 ## 4- Conclusion
 In this project, we've introduced and analysed the Iris Flower Dataset. We've used the various helpful codes from the panda's package for our analysis, and then we proceeded to create some interesting visualisations using pandas and seaborn on top of matplotlib. 
 ## 5- References
