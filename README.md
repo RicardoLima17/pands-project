@@ -9,8 +9,10 @@
 1. Summary
 2. Introduction
 3. Dataset Analysis 
-4. Conclusion
-5. References
+  3.1 Codes and Table
+  3.2 Chats
+5. Conclusion
+6. References
 
 ## 1- Summary of Pands-Project
 <p>This repository contains my programming and scripting pands-project 2021. In this project, was developed skills in, github, csv, Matplolib, NumPy, Pandas and Seaborn.</p>
@@ -40,14 +42,14 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 
 #### ----------------------------------------------------------------------------------------------------------------------------
 
-### Code and Tables
+### 3.1- Code and Tables
 
 #### Imported libraries and modules
 ![image](https://user-images.githubusercontent.com/77755223/115998743-9f5f1c80-a5e0-11eb-85dc-0993c6148d15.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/77755223/116127410-b58fda00-a6bf-11eb-971d-7296b06a03af.png)
+
 
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
@@ -70,6 +72,9 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
+3.1- Code and Tables
+![image](https://user-images.githubusercontent.com/77755223/116127410-b58fda00-a6bf-11eb-971d-7296b06a03af.png)
+
 
 ## 4- Conclusion
 In this project, we've introduced and analysed the Iris Flower Dataset. We've used the various helpful codes from the panda's package for our analysis, and then we proceeded to create some interesting visualisations using pandas and seaborn on top of matplotlib. 
