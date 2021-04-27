@@ -51,9 +51,6 @@ The head() function is used to get the first n rows. This function returns the f
 
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
-
-
-#### ----------------------------------------------------------------------------------------------------------------------------
 The function "shape" returns the shape of an array. The shape is a tuple of integers. These numbers denote the lengths of the corresponding array dimension. In other words: The "shape" of an array is a tuple with the number of elements per axis (dimension).
 
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
@@ -71,8 +68,6 @@ The describe() method is used for calculating some statistical data like percent
 groupby() function is used to split the data into groups based on some criteria. pandas objects can be split on any of their axes.
 
 ![image](https://user-images.githubusercontent.com/77755223/115615453-e601fd80-a2e6-11eb-83dc-d177414c2d5d.png)
-#### ----------------------------------------------------------------------------------------------------------------------------
-
 #### ----------------------------------------------------------------------------------------------------------------------------
 Correlation coefficients quantify the association between variables or features of a dataset. These statistics are of high importance for science and technology, and Python has great tools that you can use to calculate them. SciPy, NumPy, and Pandas correlation methods are fast, comprehensive, and well-documented.
 
