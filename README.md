@@ -58,6 +58,8 @@ The function "shape" returns the shape of an array. The shape is a tuple of inte
 
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
+The describe() method is used for calculating some statistical data like percentile, mean and std of the numerical values of the Series or DataFrame. It analyzes both numeric and object series and also the DataFrame column sets of mixed data types.
+
 ![image](https://user-images.githubusercontent.com/77755223/115614151-39734c00-a2e5-11eb-851a-b55e3d3c1008.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115614314-75a6ac80-a2e5-11eb-8016-a50787615b6f.png)
