@@ -47,6 +47,7 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 #### Imported libraries and modules
 ![image](https://user-images.githubusercontent.com/77755223/115998743-9f5f1c80-a5e0-11eb-85dc-0993c6148d15.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
+The head() function is used to get the first n rows. This function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
 ![image](https://user-images.githubusercontent.com/77755223/115613768-beaa3100-a2e4-11eb-9363-a5545eb946a3.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 
