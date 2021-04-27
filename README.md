@@ -68,6 +68,8 @@ The describe() method is used for calculating some statistical data like percent
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115615174-87d51a80-a2e6-11eb-942f-36a3a3c67509.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
+groupby() function is used to split the data into groups based on some criteria. pandas objects can be split on any of their axes.
+
 ![image](https://user-images.githubusercontent.com/77755223/115615453-e601fd80-a2e6-11eb-83dc-d177414c2d5d.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 
