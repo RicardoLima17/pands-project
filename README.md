@@ -54,6 +54,8 @@ The head() function is used to get the first n rows. This function returns the f
 
 
 #### ----------------------------------------------------------------------------------------------------------------------------
+The function "shape" returns the shape of an array. The shape is a tuple of integers. These numbers denote the lengths of the corresponding array dimension. In other words: The "shape" of an array is a tuple with the number of elements per axis (dimension).
+
 ![image](https://user-images.githubusercontent.com/77755223/115613936-f44f1a00-a2e4-11eb-9aa6-d52a89ea535b.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/115614151-39734c00-a2e5-11eb-851a-b55e3d3c1008.png)
