@@ -78,7 +78,7 @@ Correlation coefficients quantify the association between variables or features 
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ### 3.1- Graphics
-![image](https://user-images.githubusercontent.com/77755223/116291872-fc97d100-a78c-11eb-9abd-d4b71da7dece.png)
+![image](https://user-images.githubusercontent.com/77755223/116291995-218c4400-a78d-11eb-8aed-1f48678092a7.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/116289932-d8d38b80-a78a-11eb-85ae-58b43282a1cc.png)
 ![image](https://user-images.githubusercontent.com/77755223/116286836-99577000-a787-11eb-911d-d1d9c41ccc61.png)
