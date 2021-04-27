@@ -100,8 +100,12 @@ Correlation coefficients quantify the association between variables or features 
 ![image](https://user-images.githubusercontent.com/77755223/116296115-bdb84a00-a791-11eb-9800-829f94f8df3f.png)
 
 #### ----------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/77755223/116296749-7e3e2d80-a792-11eb-9aa3-e5beabb80b81.png)
+![image](https://user-images.githubusercontent.com/77755223/116296798-8e560d00-a792-11eb-89c5-9ba2e14fe139.png)
 
 #### ----------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/77755223/116297167-e856d280-a792-11eb-9f27-f66e82f4cec7.png)
+![image](https://user-images.githubusercontent.com/77755223/116297229-f4db2b00-a792-11eb-8f1a-70ec4de1fe51.png)
 
 #### ----------------------------------------------------------------------------------------------------------------------------
 
