@@ -74,6 +74,8 @@ groupby() function is used to split the data into groups based on some criteria.
 #### ----------------------------------------------------------------------------------------------------------------------------
 
 #### ----------------------------------------------------------------------------------------------------------------------------
+Correlation coefficients quantify the association between variables or features of a dataset. These statistics are of high importance for science and technology, and Python has great tools that you can use to calculate them. SciPy, NumPy, and Pandas correlation methods are fast, comprehensive, and well-documented.
+
 ![setosaCorr](https://user-images.githubusercontent.com/77755223/115971934-56a55600-a543-11eb-8047-9956d7a2e80b.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![versicolorCarr](https://user-images.githubusercontent.com/77755223/115972132-8e60cd80-a544-11eb-93b0-490e6a5230bc.PNG)
