@@ -45,6 +45,7 @@ This is an example to demonstrate concepts of Data Science. In this example we w
 ### 3.1- Code and Tables
 
 #### Imported libraries and modules
+<p>Python Libraries are a set of useful functions that eliminate the need for writing codes from scratch. There are over 137,000 python libraries present today. Python libraries play a vital role in developing machine learning, data science, data visualization, image and data manipulation applications and more</p>
 ![image](https://user-images.githubusercontent.com/77755223/115998743-9f5f1c80-a5e0-11eb-85dc-0993c6148d15.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 The head() function is used to get the first n rows. This function returns the first n rows for the object based on position. It is useful for quickly testing if your object has the right type of data in it.
