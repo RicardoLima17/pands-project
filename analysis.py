@@ -161,17 +161,17 @@ plt.show()
 
 
 # References
-<https://web.microsoftstream.com/video/ee296187-6469-4481-b28d-aed28af38ea4?list=studio>
-<https://web.microsoftstream.com/video/958c5886-bc34-4bd1-8bf2-78c85b1dba49?list=studio>
-<https://web.microsoftstream.com/video/31b9d1db-d72c-4ba2-97e3-03208b057ce6?list=studio&referrer=https:%2F%2Flearnonline.gmit.ie%2F>
-<https://web.microsoftstream.com/video/46aca21f-2b47-4ad1-9a83-8ac8b554202c?list=studio>
-<https://web.microsoftstream.com/video/2dd501ea-cd0b-4a1a-9a47-0dda9a304143?list=studio>
-<https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03>
-<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html>
-<https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html>
-<https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html>
-<https://stackoverflow.com/questions/67150094/how-can-i-condense-a-series-of-seaborn-scatterplots-using-for-loops>
-<https://seaborn.pydata.org/generated/seaborn.set.html>
-<https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/>
-<https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/>
-<https://www.python.org/>
+# https://web.microsoftstream.com/video/ee296187-6469-4481-b28d-aed28af38ea4?list=studio
+# https://web.microsoftstream.com/video/958c5886-bc34-4bd1-8bf2-78c85b1dba49?list=studio
+# https://web.microsoftstream.com/video/31b9d1db-d72c-4ba2-97e3-03208b057ce6?list=studio&referrer=https:%2F%2Flearnonline.gmit.ie%2F
+# https://web.microsoftstream.com/video/46aca21f-2b47-4ad1-9a83-8ac8b554202c?list=studio
+# https://web.microsoftstream.com/video/2dd501ea-cd0b-4a1a-9a47-0dda9a304143?list=studio
+# https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03
+# https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html
+# https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
+# https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+# https://stackoverflow.com/questions/67150094/how-can-i-condense-a-series-of-seaborn-scatterplots-using-for-loops
+# https://seaborn.pydata.org/generated/seaborn.set.html
+# https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/
+# https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/
+# https://www.python.org/
