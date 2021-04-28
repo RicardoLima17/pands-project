@@ -118,6 +118,7 @@ Correlation coefficients quantify the association between variables or features 
 ## 4- Conclusion
 In this project, we've introduced and analysed the Iris Flower Dataset. We've used the various helpful codes from the panda's package for our analysis, and then we proceeded to create some interesting visualisations using pandas and seaborn on top of matplotlib.
 ## 5- References
+<https://www.python.org/doc/>
 <https://web.microsoftstream.com/video/ee296187-6469-4481-b28d-aed28af38ea4?list=studio>
 <https://web.microsoftstream.com/video/958c5886-bc34-4bd1-8bf2-78c85b1dba49?list=studio>
 <https://web.microsoftstream.com/video/31b9d1db-d72c-4ba2-97e3-03208b057ce6?list=studio&referrer=https:%2F%2Flearnonline.gmit.ie%2F>
@@ -134,6 +135,7 @@ In this project, we've introduced and analysed the Iris Flower Dataset. We've us
 <https://www.python.org/>
 <https://www.w3schools.com/python/matplotlib_histograms.asp>
 <https://seaborn.pydata.org/generated/seaborn.PairGrid.html>
+<https://docs.github.com/en/github/managing-files-in-a-repository/deleting-files-in-a-repository>
 
 
 
