@@ -119,7 +119,7 @@ sns.histplot( virginica["sepal length"] , kde = True, stat="density", linewidth=
 sns.histplot(virginica["sepal width" ] , kde = True, stat="density", linewidth=1, color="yellow"  ,ax=axes[0, 1]) 
 sns.histplot(virginica["petal length"] , kde = True, stat="density", linewidth=1, color="purple", ax=axes[1, 0]) 
 sns.histplot(virginica["petal width" ] , kde = True, stat="density", linewidth=1, color="green" , ax=axes[1, 1])
-plt.suptitle ("Virginical Iris dataset centimeter")
+plt.suptitle ("Virginical Iris dataset in centimeter")
 plt.savefig(fname="virginica.png")
 
 
