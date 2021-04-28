@@ -80,7 +80,7 @@ Correlation coefficients quantify the association between variables or features 
 ![virginicaCorr](https://user-images.githubusercontent.com/77755223/115972150-97ea3580-a544-11eb-9440-a941beabeb6e.PNG)
 #### ----------------------------------------------------------------------------------------------------------------------------
 
-### 3.1- Graphics
+### 3.2- Graphics
 ![image](https://user-images.githubusercontent.com/77755223/116291995-218c4400-a78d-11eb-8aed-1f48678092a7.png)
 #### ----------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/77755223/116289932-d8d38b80-a78a-11eb-85ae-58b43282a1cc.png)
@@ -132,6 +132,8 @@ In this project, we've introduced and analysed the Iris Flower Dataset. We've us
 <https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/>
 <https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/>
 <https://www.python.org/>
+<https://www.w3schools.com/python/matplotlib_histograms.asp>
+<https://seaborn.pydata.org/generated/seaborn.PairGrid.html>
 
 
 
